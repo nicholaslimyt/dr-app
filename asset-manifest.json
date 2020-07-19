@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/dr-app/static/css/main.49c6bee0.chunk.css",
-    "main.js": "/dr-app/static/js/main.4348756a.chunk.js",
-    "main.js.map": "/dr-app/static/js/main.4348756a.chunk.js.map",
+    "main.js": "/dr-app/static/js/main.ab4910a1.chunk.js",
+    "main.js.map": "/dr-app/static/js/main.ab4910a1.chunk.js.map",
     "runtime-main.js": "/dr-app/static/js/runtime-main.8ed75b73.js",
     "runtime-main.js.map": "/dr-app/static/js/runtime-main.8ed75b73.js.map",
     "static/css/2.4c4477be.chunk.css": "/dr-app/static/css/2.4c4477be.chunk.css",
     "static/js/2.599f6d29.chunk.js": "/dr-app/static/js/2.599f6d29.chunk.js",
     "static/js/2.599f6d29.chunk.js.map": "/dr-app/static/js/2.599f6d29.chunk.js.map",
     "index.html": "/dr-app/index.html",
-    "precache-manifest.f710834113135fc26145a1ddc98fde11.js": "/dr-app/precache-manifest.f710834113135fc26145a1ddc98fde11.js",
+    "precache-manifest.fb825652f046ea9eab4365091576efa7.js": "/dr-app/precache-manifest.fb825652f046ea9eab4365091576efa7.js",
     "service-worker.js": "/dr-app/service-worker.js",
     "static/css/2.4c4477be.chunk.css.map": "/dr-app/static/css/2.4c4477be.chunk.css.map",
     "static/css/main.49c6bee0.chunk.css.map": "/dr-app/static/css/main.49c6bee0.chunk.css.map",
     "static/js/2.599f6d29.chunk.js.LICENSE.txt": "/dr-app/static/js/2.599f6d29.chunk.js.LICENSE.txt",
     "static/media/index.css": "/dr-app/static/media/Lalezar-Regular.136f9cd0.ttf",
-    "static/media/tigerbalm.svg": "/dr-app/static/media/tigerbalm.9e3f68db.svg"
+    "static/media/tigerbalm-dr-logo-v2.svg": "/dr-app/static/media/tigerbalm-dr-logo-v2.c4b10c03.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8ed75b73.js",
     "static/css/2.4c4477be.chunk.css",
     "static/js/2.599f6d29.chunk.js",
     "static/css/main.49c6bee0.chunk.css",
-    "static/js/main.4348756a.chunk.js"
+    "static/js/main.ab4910a1.chunk.js"
   ]
 }
