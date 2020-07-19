@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/dr-app/static/css/main.7aaa092f.chunk.css",
+    "main.js": "/dr-app/static/js/main.4348756a.chunk.js",
+    "main.js.map": "/dr-app/static/js/main.4348756a.chunk.js.map",
+    "runtime-main.js": "/dr-app/static/js/runtime-main.8ed75b73.js",
+    "runtime-main.js.map": "/dr-app/static/js/runtime-main.8ed75b73.js.map",
+    "static/css/2.4c4477be.chunk.css": "/dr-app/static/css/2.4c4477be.chunk.css",
+    "static/js/2.599f6d29.chunk.js": "/dr-app/static/js/2.599f6d29.chunk.js",
+    "static/js/2.599f6d29.chunk.js.map": "/dr-app/static/js/2.599f6d29.chunk.js.map",
+    "index.html": "/dr-app/index.html",
+    "precache-manifest.0c70b2d44dd1514fb493efaadc667634.js": "/dr-app/precache-manifest.0c70b2d44dd1514fb493efaadc667634.js",
+    "service-worker.js": "/dr-app/service-worker.js",
+    "static/css/2.4c4477be.chunk.css.map": "/dr-app/static/css/2.4c4477be.chunk.css.map",
+    "static/css/main.7aaa092f.chunk.css.map": "/dr-app/static/css/main.7aaa092f.chunk.css.map",
+    "static/js/2.599f6d29.chunk.js.LICENSE.txt": "/dr-app/static/js/2.599f6d29.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/dr-app/static/media/Lalezar-Regular.136f9cd0.ttf",
+    "static/media/tigerbalm.svg": "/dr-app/static/media/tigerbalm.9e3f68db.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ed75b73.js",
+    "static/css/2.4c4477be.chunk.css",
+    "static/js/2.599f6d29.chunk.js",
+    "static/css/main.7aaa092f.chunk.css",
+    "static/js/main.4348756a.chunk.js"
+  ]
+}
