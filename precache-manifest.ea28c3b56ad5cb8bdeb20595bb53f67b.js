@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b92625f5267d0680eaa47922eb11d2ef",
+    "revision": "dc4d94ffa4ae6fcaa3c7fc8f4c655a91",
     "url": "/dr-app/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dr-app/static/css/2.4c4477be.chunk.css"
   },
   {
-    "revision": "77c14b01d808c3f5804d",
-    "url": "/dr-app/static/css/main.7aaa092f.chunk.css"
+    "revision": "d9ff79ab6a76c0b91ece",
+    "url": "/dr-app/static/css/main.7a58f3ef.chunk.css"
   },
   {
     "revision": "3c67ab84d2c7c030ca25",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dr-app/static/js/2.599f6d29.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "77c14b01d808c3f5804d",
+    "revision": "d9ff79ab6a76c0b91ece",
     "url": "/dr-app/static/js/main.4348756a.chunk.js"
   },
   {
